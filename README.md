@@ -3,4 +3,4 @@
 
 更多详情，请阅读，博客：http://blog.csdn.net/hexingen/article/details/78819243
 
-##研究Google推荐的MVVM组件实例
+# 研究Google推荐的MVVM组件实例
